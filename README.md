@@ -20,10 +20,10 @@ For the bot to know where to click, you need to create a folder named `icons` in
 **WARNING: The bot is color-sensitive. It is strictly required to set Facebook to DARK MODE before taking the screenshots and before running the bot.**
 
 Rename your image snips exactly like this:
-* `puntini.png` (The three dots icon at the top right of the post)
-* `modifica.png` (The "Edit audience" or "Edit privacy" option)
-* `solo_io.png` (The "Only me" icon with the padlock)
-* `salva.png` (The blue "Save" button / *attention: crop only the button itself, without outer margins*)
+* `options.png` (The three dots icon at the top right of the post)
+* `modify.png` (The "Edit audience" or "Edit privacy" option)
+* `only_me.png` (The "Only me" icon with the padlock)
+* `save.png` (The blue "Save" button / *attention: crop only the button itself, without outer margins*)
 
 *Note: Try taking the screenshots without hovering your mouse over the buttons, otherwise you'll capture the 'hover' effect (the grey background) and the bot won't recognize them at rest.*
 
